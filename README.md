@@ -12,7 +12,7 @@ conectando universidade, startups, pesquisadores e setor produtivo.
 ### 🚀 YPETEC
 Plataforma de incubação e mentoria para projetos de empreendedorismo estudantil.
 
-🔗 Repositório: <link>
+🔗 Repositório: <[link](https://github.com/AgroHub-Uni-RV/Ypetec)>
 📚 Documentação: Confluence
 📊 Gestão: Jira
 
@@ -21,7 +21,7 @@ Plataforma de incubação e mentoria para projetos de empreendedorismo estudanti
 ### 🧪 InovaLab
 Ambiente de desenvolvimento tecnológico com backend Django + frontend Angular.
 
-🔗 Repositório: <link>
+🔗 Repositório: <[link](https://github.com/AgroHub-Uni-RV/Inovalab)>
 📚 Documentação: Confluence
 📊 Gestão: Jira
 
@@ -30,7 +30,7 @@ Ambiente de desenvolvimento tecnológico com backend Django + frontend Angular.
 ### 📢 Plataforma AgroHub (Editais & Startups)
 Sistema institucional de editais de fomento e vitrine de startups.
 
-🔗 Repositório: <link>
+🔗 Repositório: <[link](https://github.com/AgroHub-Uni-RV/UniRV-Django)>
 📚 Documentação: Confluence
 📊 Gestão: Jira
 
@@ -39,7 +39,7 @@ Sistema institucional de editais de fomento e vitrine de startups.
 ### 🎓 Escola Virtus
 Projeto educacional baseado em Django.
 
-🔗 Repositório: <link>
+🔗 Repositório: <[link](https://github.com/AgroHub-Uni-RV/Escola-Virtus)>
 
 ---
 
@@ -48,7 +48,7 @@ Projeto educacional baseado em Django.
 - Backend: Django
 - Banco: PostgreSQL
 - Cache: Redis
-- Frontend: Tailwind / Angular (dependendo do projeto)
+- Frontend: Tailwind / JS (framework dependendente do projeto)
 - Infra: Docker
 - Gestão: Jira
 - Documentação: Confluence
